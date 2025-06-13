@@ -1,0 +1,24 @@
+context garden: https://wiki.contextgarden.net/Main_Page
+pragma ade: https://www.pragma-ade.com/
+context mail: https://www.mail-archive.com/ntg-context@ntg.nl/
+not so short context: https://github.com/contextgarden/not-so-short-introduction-to-context/
+lpeg: https://www.inf.puc-rio.br/~roberto/lpeg/
+lualatex: https://www.thegeekdiary.com/lualatex-command-examples/
+ctan koma-script: https://www.ctan.org/pkg/koma-script
+ctan pgf: https://www.ctan.org/pkg/pgf
+ctan pgfplots: https://www.ctan.org/pkg/pgfplots
+ctan biblatex: https://ctan.org/pkg/biblatex
+latex: https://www.latex-project.org/about/
+wysiwym: https://docs.zettlr.com/en/concepts/wysiwym/
+parsimonious: https://github.com/erikrose/parsimonious
+pegen: https://we-like-parsers.github.io/pegen/
+libreoffice python: https://help.libreoffice.org/latest/en-US/text/sbasic/python/main0000.html
+libreoffice basic: https://help.libreoffice.org/latest/en-US/text/sbasic/shared/main0601.html
+vba doc vars: https://learn.microsoft.com/en-us/office/vba/word/concepts/miscellaneous/storing-values-when-a-macro-ends
+vba peg: https://github.com/mnru/VBA-Peg/tree/master
+ms vba help: https://learn.microsoft.com/en-us/office/vba/api/overview/
+wysiwyg: https://foldoc.org/What+You+See+Is+What+You+Get
+umpk emu: 
+pretty assembler: https://github.com/svofski/pretty-8080-assembler
+emuStudio: https://www.emustudio.net/
+umpk-80: 
