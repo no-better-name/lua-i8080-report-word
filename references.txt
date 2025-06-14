@@ -1,3 +1,8 @@
+i8080: 
+peg bryan: https://bford.info/pub/lang/peg.pdf
+peg roberto: https://www.inf.puc-rio.br/~roberto/docs/peg.pdf
+cld: https://www.pragma-ade.com/general/manuals/cld-mkiv.pdf
+luametatex: https://www.pragma-ade.com/general/manuals/luametatex.pdf
 context garden: https://wiki.contextgarden.net/Main_Page
 pragma ade: https://www.pragma-ade.com/
 context mail: https://www.mail-archive.com/ntg-context@ntg.nl/
